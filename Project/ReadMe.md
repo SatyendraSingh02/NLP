@@ -8,7 +8,7 @@
   2- Genre 
 
 ### Steps Involved
-  1- Importing required libraries 
+  1- Importing required libraries -
   
   2-Reading CSV
   
@@ -24,4 +24,5 @@
   
   8-Print function 
   
-  9-Main function
+  9-Main function--
+  * the main function is based user choice. Which type of movie suggestions he wants whether based on MOvie name or based on particular Genre of its interest.
